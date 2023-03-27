@@ -14,11 +14,11 @@ Features:
     + Close Window - functional
     + Exit - functional
   + Edit
-    - Undo - not functional
-    - Cut - not functional
-    - Copy - not functional
-    - Paste - not functional
-    - Delete - not functional
+    - Undo - functional
+    - Cut - functional
+    - Copy - functional
+    - Paste - functional
+    - Delete - functional
     - Find - not functional
     - Find next - not functional
     - Find previous - not functional
