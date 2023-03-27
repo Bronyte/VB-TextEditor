@@ -1,5 +1,5 @@
 # VB-TextEditor
-A texteditor with a menustrip functionality similar to NotePad. Some features are missing or kaputt.
+A simple texteditor with a menustrip functionality similar to NotePad. Some features are missing or kaputt.
 Features:
   + File
     - New tab - not functional
