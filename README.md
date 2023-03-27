@@ -8,7 +8,7 @@ Features:
     + Save - functional
     + Save As - functional
     - Save All - not functional
-    + Page Setup - gunctional
+    + Page Setup - functional
     - Print - not functional
     + Close Tab - functional
     + Close Window - functional
